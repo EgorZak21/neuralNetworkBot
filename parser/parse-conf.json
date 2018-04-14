@@ -1,0 +1,12 @@
+{
+	"USR_LOGIN" :	"YOUR LOGIN",
+	"USR_PASSWD" :	"YOUR PASSWORD",
+	"owner" :		-94623523,
+	"alb" :			216942214,
+	"group" :		3000,
+	"offs" : 		2044,
+	"db_loc":		"YOUR DB LOC",
+	"groups_input": 200,
+	"batch": 100,
+	"part": 25
+}

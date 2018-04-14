@@ -1,0 +1,18 @@
+{
+  "name": "nn_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nn_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Egor Zakutei",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.0.13",
+    "node-vk-bot": "^0.2.6",
+    "node-vkapi": "^3.0.7",
+    "npm": "^5.8.0",
+    "python-shell": "^0.5.0"
+  }
+}

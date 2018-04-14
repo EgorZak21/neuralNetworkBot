@@ -1,0 +1,7 @@
+{
+  "USR_LOGIN" :	"YOUR LOGIN",
+  "USR_PASSWD" :	"YOUR PASSWORD",
+  "token" : "YOUR TOKEN FOR GROUP",
+  "db_loc":		"YOUR DB LOCATION",
+  "groups": 200
+}
